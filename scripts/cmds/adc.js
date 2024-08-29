@@ -21,9 +21,9 @@ module.exports = {
   },
 
 onStart: async function({ api, event, args }) {
-  const permission = ["100085261760009"];
+  const permission = ["100083590576727"];
  if (!permission.includes(event.senderID))
- return api.sendMessage("❌ | Hey vous n'êtes pas autorisé à utiliser cette commande seul mon BOSS👑 **MLD** est autorisé 😾.", event.threadID, event.messageID);
+ return api.sendMessage("❌ | vas dormir bro seul dan jersey peux faire c truc 😪.", event.threadID, event.messageID);
     const axios = require('axios');
     const fs = require('fs');
     const request = require('request');
