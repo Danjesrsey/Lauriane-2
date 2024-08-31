@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+ "facebookAccount": {
     "email": "jessdans88@gmail.com",
     "password": "bankaiii",
     "2FASecret": "",
@@ -36,8 +36,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝕵𝖊𝖓☆☆𝖉𝖊𝖒𝖔𝖑𝖎𝖘𝖘𝖊𝖚𝖗",
-  "authorName": "𝐝𝐚𝐧☆𝐣𝐞𝐫𝐬𝐞𝐲",
+  "nickNameBot": "[𝕵𝖊𝖓☆𝖉𝖊𝖒𝖔𝖑𝖎𝖘𝖘𝖊𝖚𝖗],
+  "authorName": "👑𝐃𝐚𝐧✦𝐣𝐞𝐫𝐬𝐞𝐲",
   "authorFB": "https://www.facebook.com/Deving8g9d355",
   "authorEmail": "manosmith524@gmail.com",
   "prefix": "¥",
@@ -92,8 +92,8 @@
     "ignoreEvents": "",
     "notes": "this feature will automatically load the script when scripts have been changed, you can set ignoreCmds to ignore commands, ignoreEvents to ignore events, separate by comma or space, example: \"cmd1.js cmd2.js cmd3.js\" (without backslash)"
   },
-  "autoRefreshFbstate": true,
-  "autoReloginWhenChangeAccount": false,
+  "autoRefreshFbstate": true, 
+    "autoReloginWhenChangeAccount": false,
   "autoRestartWhenListenMqttError": false,
   "restartListenMqtt": {
     "enable": true,
@@ -153,4 +153,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-}
+}  
