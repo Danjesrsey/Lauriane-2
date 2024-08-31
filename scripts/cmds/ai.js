@@ -28,7 +28,7 @@ async function getAIResponse(input, userId, messageID) {
         { url: 'https://ai-chat-gpt-4-lite.onrender.com/api/hercai', params: { question: input } }
     ];
 
-    let response = " ~pose ta question qu'on en finisse  ";
+    let response = " 𝐛𝐫𝐨 𝐩𝐨𝐬𝐞 𝐯𝐢𝐭𝐞 𝐭𝐚 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 𝐬𝐢 𝐭𝐮 𝐯𝐞𝐮𝐱 𝐩𝐚𝐬 𝐬𝐮𝐛𝐢𝐫 𝐥𝐚 𝐜𝐨𝐥𝐞̀𝐫𝐞 𝐝𝐞 𝐦𝐨𝐧 𝐦𝐚𝐢̂𝐭𝐫𝐞 [𝐝𝐚𝐧 𝐣𝐞𝐫𝐬𝐞𝐲](눈‸눈) ";
     let currentIndex = 0;
 
     for (let i = 0; i < services.length; i++) {
